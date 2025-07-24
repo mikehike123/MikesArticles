@@ -1,0 +1,5 @@
+Read the results-different-timeframes.md  file.  I having an account with $60K in it and it seems all of these timeframes were profitable.  I'm confused how I should trade the strategy.  Should I just focus on the weekly time frame or should I use a combination of time frames.  The 5 min time frame has lots of trades but we are in bull market and it's historical data is over a small time span. It would be fun to start trading but maybe I should wait.  I'm 63 years old so don't wish to take alot of risk but would like to do a few percent better than CPI because I don't trust it as a good gauge for actual living costs. 
+
+*** Task
+1. Create a Summary  Section  for the analysis and add it to the bottom of the file
+2. From this recommend the best stategy for a 5 year plan which would balance the risk and desire for profits descibe the plan in detail but to the point.  Add this to the bottom of the file.
