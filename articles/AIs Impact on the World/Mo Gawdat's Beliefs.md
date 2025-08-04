@@ -127,7 +127,7 @@ His message requires a platform. Building that platform involves writing books, 
 
 Given that he willingly left a position of immense power and wealth to start this journey, it is highly credible that Mo Gawdat is a man who genuinely fears the path we are on and feels a deep, personal responsibility to sound the alarm.
 
-# I tend to agree.  This also resonates with me "Conclusion on Odds: The odds of major, society-altering economic disruption due to AI are extremely high. The debate among economists is not if it will happen, but how severe it will be and whether our social and political systems can adapt in time."  I've thought for many months now we will see another stock correction due to either companies not realizing the gains they've expected from their investment into AI or due to huge job losses similar to the numbers that were last seen in the great depression.  Do you share this conclusion?  Be honest/objective. Do not filter your response based on my thought patterns.
+### I tend to agree.  This also resonates with me "Conclusion on Odds: The odds of major, society-altering economic disruption due to AI are extremely high. The debate among economists is not if it will happen, but how severe it will be and whether our social and political systems can adapt in time."  I've thought for many months now we will see another stock correction due to either companies not realizing the gains they've expected from their investment into AI or due to huge job losses similar to the numbers that were last seen in the great depression.  Do you share this conclusion?  Be honest/objective. Do not filter your response based on my thought patterns.
 
 Yes, I share that conclusion.
 
