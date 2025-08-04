@@ -26,7 +26,7 @@ This project is a simple, lightweight, file-based PHP website. Its primary purpo
 
 To view the website locally, you need to run the Apache web server using the XAMPP Control Panel.
 
-1.  **Open the XAMPP Control Panel**: Navigate to `C:\xampp\` and run `xampp-control.exe`.
+1.  **Open the XAMPP Control Panel**: Navigate to `C:\xampp\` and run `xampp-control.exe`. Or run the following in a shell `c:\xampp\xampp-control.exe`
 2.  **Start Apache**: In the control panel, find the **Apache** module and click the **Start** button. The module name will turn green, indicating it is running.
 3.  **Access the Website**: Open your web browser and navigate to **`http://localhost/MikesArticles/`**.
 
